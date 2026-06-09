@@ -100,5 +100,7 @@ int main() {
     ListNode* middle2 = solver.middleNode_optimal(head);
     cout << "Middle Node : " << middle2->val << endl;
 
+    printFromNode(middle2);
+
     return 0;
 }
