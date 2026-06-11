@@ -56,9 +56,7 @@ public:
     // Better Approach (Length Difference)
     // Time Complexity : O(N + 2M)
     // Space Complexity : O(1)
-// Better Approach (Length Difference)
-// Time Complexity : O(N + 2M)
-// Space Complexity : O(1)
+
 
 ListNode* getIntersection_better(ListNode* headA, ListNode* headB) {
 
